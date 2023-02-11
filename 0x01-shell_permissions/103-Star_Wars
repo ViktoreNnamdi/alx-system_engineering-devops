@@ -1,2 +1,2 @@
 #!/bin/bash
-sort StarWars IV
+cat StarWars IV
