@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello if [ "$file_owner" == "guillaume" ]
+if [ "$file_owner" == "guillaume" ]; then chown betty hello
